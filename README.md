@@ -98,9 +98,9 @@ Exit QEMU by pressing `Ctrl-a`, followed by `x`.
 
 | Team Member | Contribution |
 |---|---|
-| Member 1 name | Implemented the kernel-side trace logic and per-process tracing state. |
+| Siddhi Gulati | Implemented the kernel-side trace logic and per-process tracing state. |
 | Rudranshi Airen | Manually charted, documented, and verified the complete system-call interface and the user-to-kernel path for `trace(int)`. |
-| Member 3 name | Implemented or verified the user test programs, build integration, and execution results. |
+| Dhruv Garg | Implemented or verified the user test programs, build integration, and execution results. |
 
 ## Video Walkthrough
 
